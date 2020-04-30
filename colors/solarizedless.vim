@@ -10,7 +10,7 @@ let colors_name="solarizedless"
 " Colors {{{
 let s:bg = "NONE"
 let s:fg = "241"
-let s:mute = "245"
+let s:mute = "246"
 
 if &background == "dark"
   let s:bg = "241"
